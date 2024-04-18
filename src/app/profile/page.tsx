@@ -62,7 +62,7 @@ export default function ProfilePage() {
               className="w-full h-auto rounded-lg mb-4"
             />
             <p className="text-gray-700  text-l font-bold">
-              TechWave Solutions maintains modern and dynamic office spaces designed to foster creativity, collaboration, and innovation. Located in vibrant urban centers, the offices feature open floor plans, ergonomic workstations, and state-of-the-art facilities to enhance productivity and employee well-being. With dedicated areas for meetings, brainstorming sessions, and social gatherings, the office environments promote a vibrant and inclusive culture where team members can thrive. From breakout areas with comfortable seating to recreational zones equipped with games and relaxation spaces, TechWave's office spaces are thoughtfully curated to inspire creativity and drive success in the digital age.
+              TechWave Solutions maintains modern and dynamic office spaces designed to foster creativity, collaboration, and innovation. Located in vibrant urban centers, the offices feature open floor plans, ergonomic workstations, and state-of-the-art facilities to enhance productivity and employee well-being. With dedicated areas for meetings, brainstorming sessions, and social gatherings, the office environments promote a vibrant and inclusive culture where team members can thrive. From breakout areas with comfortable seating to recreational zones equipped with games and relaxation spaces, TechWaves office spaces are thoughtfully curated to inspire creativity and drive success in the digital age.
             </p>
           </div>
           <div className="bg-red-200 shadow-md rounded-lg p-6">
